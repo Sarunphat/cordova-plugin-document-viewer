@@ -56,7 +56,7 @@ An [ionic native wrapper][ionic] for the plugin is available.
 From master:
 ```bash
 # ~~ from master branch ~~
-cordova plugin add https://github.com/sitewaerts/cordova-plugin-document-viewer.git
+cordova plugin add https://github.com/Sarunphat/cordova-plugin-document-viewer.git
 ```
 from a local folder:
 ```bash
@@ -90,7 +90,7 @@ For available versions and additional information visit the [npm plugin registry
 
 ## Using the plugin ##
 
-See https://github.com/sitewaerts/cordova-plugin-document-viewer-sample-app for a working example.
+See https://github.com/Sarunphat/cordova-plugin-document-viewer-sample-app for a working example.
 
 The plugin creates the object ```cordova.plugins.SitewaertsDocumentViewer```.
 
